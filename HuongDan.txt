@@ -1,0 +1,1 @@
+Mở file script lên (mở bằng sql management) sau đó execute cái query đấy sẽ được cơ sở dữ liệu. Mở phần mềm lên, tìm connect.cs, thay đổi strcon cho phù hợp với máy của các bạn.
